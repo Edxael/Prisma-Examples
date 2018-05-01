@@ -16,7 +16,17 @@ https://www.prisma.io/features
 
 === Reading about RELATIOSN === https://www.prisma.io/docs/reference/service-configuration/data-modelling-(sdl)-eiroozae8u#relations
 
+
+
+
+
+
 -----------------------------------------------------
+Link with posible good information 
+http://graphql.org/learn/schema/#type-language
+search for: "A GraphQL object type has a name and fields, but at some point"
+-----------------------------------------------------
+
 
 
 
