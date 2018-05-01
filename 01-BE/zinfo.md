@@ -4,6 +4,8 @@ Site with examples of Autentication using GitHub:
 URL: https://github.com/graphcool/prisma/tree/master/examples
 ================================================================
 
+Prisma: Features: Official Link: https://www.prisma.io/features
+
 URL: when research:
 https://www.prisma.io/features
 
