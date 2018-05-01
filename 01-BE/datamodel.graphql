@@ -1,0 +1,22 @@
+type User {
+  id: ID! @unique
+  name: String!
+}
+
+
+type Song {
+  id: ID! @unique
+  name: String!
+  owner: Singer!
+}
+
+
+type Singer {
+  id: ID! @unique
+  name: String!
+  country: String!
+  age: Int!
+  hits: [Song!]!
+}
+
+
