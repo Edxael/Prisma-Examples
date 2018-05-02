@@ -1,4 +1,8 @@
 
+# Information and External Links
+
+Update information:
+
 ================================================================
 Site with examples of Autentication using GitHub:
 URL: https://github.com/graphcool/prisma/tree/master/examples
@@ -30,6 +34,4 @@ Link with posible good information
 http://graphql.org/learn/schema/#type-language
 search for: "A GraphQL object type has a name and fields, but at some point"
 -----------------------------------------------------
-
-
 
